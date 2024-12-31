@@ -5,7 +5,7 @@ This program is a simple Wordle solver that uses AI to make educated guesses bas
 
 ---
 
-## Project Files
+## 📂 Project Files
   - [Wordle Solver Program](https://github.com/EricDelgado993/Wordle-Solver/blob/main/Wordle%20Solver%20Project/WordleSolver.py)
   - [Word List](https://github.com/EricDelgado993/Wordle-Solver/blob/main/Wordle%20Solver%20Project/WordList.txt)
 
