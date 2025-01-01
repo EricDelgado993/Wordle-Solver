@@ -1,3 +1,4 @@
+###### [↩️Return to Portfolio](https://github.com/EricDelgado993/Portfolio)
 # Wordle Solver
 
 ## Overview
